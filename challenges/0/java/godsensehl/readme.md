@@ -21,6 +21,6 @@ cd  he4rtoberfest-2021/challenges/0/java/godsensehl
 
 javac HelloWorld.java   (compila)
 
-java HelloWorld        (execulta)
+java HelloWorld        	(executa)
 
 ```
